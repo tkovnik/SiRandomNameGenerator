@@ -12,13 +12,19 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            PersonNameGenerator nameGen = new PersonNameGenerator();
+            //PersonNameGenerator nameGen = new PersonNameGenerator();
 
-            string emso = nameGen.GeneratePIN(new DateTime(1980, 12, 5), SiRandomNameGenerator.Model.Sex.Female, 550);
 
-            Person p = nameGen.GetRandomPerson(false);
 
-            var lst = nameGen.GetRandomPersonList(20, Sex.Undefined, 10);
+            //string emso = nameGen.GeneratePIN(new DateTime(1980, 12, 5), SiRandomNameGenerator.Model.Sex.Female, 550);
+
+            //Person p = nameGen.GetRandomPerson(false);
+
+            //var lst = nameGen.GetRandomPersonList(20, Sex.Undefined, 10);
+
+            PersonNameGenerator generator = new PersonNameGenerator();
+
+            string name = generator.GetRandomName(Sex.Female);
             
         }
     }
