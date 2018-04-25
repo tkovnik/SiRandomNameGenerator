@@ -2,7 +2,7 @@
 
 SiRandomNameGenerator is simple .NET library for generating random slovenian names and last names.
 Library allows you to generate names or last names as separate strings or as whole human name. 
-Library can also returns whole Person object with full range of randomized data (Name, Lastname, Date of birth, date of death, sex, PID (EMŠO - with true value based on sex and date of brith)
+Library can also return whole Person object with full range of randomized data (Name, Lastname, Date of birth, date of death, sex, PID (EMŠO - with true value based on sex and date of brith)
 
 Typical Usage (generating a person name and surname):
 ```C#
