@@ -1,10 +1,6 @@
-﻿using SiRandomNameGenerator;
-using SiRandomNameGenerator.Model;
+﻿using SiRandomNameGeneratorNETStandard;
+using SiRandomNameGeneratorNETStandard.Model;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleTest
 {
@@ -16,7 +12,7 @@ namespace ConsoleTest
 
 
 
-            string emso = nameGen.GeneratePIN(new DateTime(1980, 12, 5), SiRandomNameGenerator.Model.Sex.Female, 550);
+            string emso = nameGen.GeneratePIN(new DateTime(1980, 12, 5), SiRandomNameGeneratorNETStandard.Model.Sex.Female, 550);
 
             Person p = nameGen.GetRandomPerson(false);
 

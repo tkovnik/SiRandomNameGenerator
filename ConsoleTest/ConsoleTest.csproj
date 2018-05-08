@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SiRandomNameGeneratorNETStandard\SiRandomNameGeneratorNETStandard.csproj">
+      <Project>{e9bc652e-a14b-4a1c-8d56-36f1d182c8ad}</Project>
+      <Name>SiRandomNameGeneratorNETStandard</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SiRandomNameGenerator\SiRandomNameGenerator.csproj">
       <Project>{1a32d09f-e275-4980-a4ca-e635d82c0f6b}</Project>
       <Name>SiRandomNameGenerator</Name>
