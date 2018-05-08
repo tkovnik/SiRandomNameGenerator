@@ -62,38 +62,38 @@ namespace SiRandomNameGeneratorNETStandard.Asset {
         
         /// <summary>
         ///   Looks up a localized string similar to Abram
-        ///Adamiè
-        ///Adlešiè
+        ///Adamič
+        ///Adlešič
         ///Agrež
-        ///Ahaèiè
+        ///Ahačič
         ///Ahlin
-        ///Ahèan
-        ///Ahèin
-        ///Ajdiè
+        ///Ahčan
+        ///Ahčin
+        ///Ajdič
         ///Ajlec
-        ///Aleksiè
+        ///Aleksič
         ///Aleš
         ///Alešovec
-        ///Aliè
-        ///Aljanèiè
+        ///Alič
+        ///Aljančič
         ///Aljaž
-        ///Alujeviè
+        ///Alujevič
         ///Ambrož
-        ///Ambrožiè
+        ///Ambrožič
         ///Ameršek
         ///Andoljšek
         ///Andolšek
         ///Andreaš
         ///Andrejka
-        ///Andrejèiè
+        ///Andrejčič
         ///Andronja
         ///Ankele
         ///Ankerst
         ///Anko
-        ///Antiè
+        ///Antič
         ///Antolin
-        ///Antoliè
-        ///Antonèiè
+        ///Antolič
+        ///Antončič
         ///Anžlovar
         ///Apih
         ///Arh
@@ -101,30 +101,30 @@ namespace SiRandomNameGeneratorNETStandard.Asset {
         ///Arigler
         ///Arih
         ///Arko
-        ///Arliè
-        ///Armiè
+        ///Arlič
+        ///Armič
         ///Arnejc
         ///Arnež
-        ///Arniè
-        ///Artaè
+        ///Arnič
+        ///Artač
         ///Arzenšek
-        ///Arèon
+        ///Arčon
         ///Atelšek
-        ///Augustiè
+        ///Augustič
         ///Avbelj
         ///Avguštin
         ///Avsec
         ///Avsenek
         ///Avsenik
-        ///Avèin
-        ///Avšiè
-        ///Aèko
-        ///Aèkun
+        ///Avčin
+        ///Avšič
+        ///Ačko
+        ///Ačkun
         ///Aškerc
         ///Ažbe
         ///Ažman
         ///Ažnik
-        ///Babiè
+        ///Babič
         ///B [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string LastNames {
@@ -239,7 +239,7 @@ namespace SiRandomNameGeneratorNETStandard.Asset {
         ///Aleksina
         ///Alena
         ///Alenka
-        ///Alenèica
+        ///Alenčica
         ///Alexandra
         ///Aleša
         ///Aleška
