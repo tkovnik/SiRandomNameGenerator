@@ -2669,4 +2669,5 @@ Zvonar
 Žvanut
 Žvegelj
 Žvižej
+Pokeržnik
 -
